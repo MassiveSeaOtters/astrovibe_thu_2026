@@ -9,20 +9,32 @@ AstroVibe day will be a 1.5-day in-person hackathon event planned for the spring
 
 ## How to propose a sprint
 
-Use of the links below to propose a sprint:
-  - <a href="https://github.com/LSSTDESC/SprintDayFeb2025/issues/new?assignees=&labels=General+Sprint&template=new-general-sprint.md&title=%5BSPRINT%5D+your+sprint+name+" target="_blank"  >New General Sprint</a>: General sprints are on various topics and more science oriented
+Use the links below to propose your AstroVibe project:
+  - <a href="https://github.com/LSSTDESC/SprintDayFeb2025/issues/new?assignees=&labels=AstroVibe&template=new-astrovibe-project.md&title=%5BSPRINT%5D+your+astrovibe+name+" target="_blank"  >New AstroVibe Project</a>
  
-If you click on these links, you will be able to use a Sprint template, and make sure to fill in your sprint information, in as much detail as you can. Then add relevant labels, such as working group (e.g. WL, LSS), expected day of the week, and accessibility level.
+If you click these links, you can use the AstroVibe template and enter your project information with as much detail as possible.
 
-## How to sign up for a sprint
+## How to sign up for an AstroVibe project
 
-When you decide to join a sprint, click the `assignees` button in the top-left of the sprint issue page and assign yourself.
+When you decide to join an AstroVibe project, click the `assignees` button in the top-left of the issue page and assign yourself.
 
-## Tips
+## Format:
 
-Finding a sprint topic: If you are looking for sprint ideas to propose, some possible project themes include DC2 analyses, Science Verification planning, DESC pipeline construction/maintenance, and sprints that improve communication tools within DESC. Sprints are invitations to your DESC collaborators to come and work with you on your project! Not sure what to post? Check out the list of sprint & hack projects at recent sprint events:  [Sprint Week 2024](https://github.com/LSSTDESC/SprintWeek2024), [ETH Zurich 2024](https://github.com/LSSTDESC/SprintDayETHZurich2024), [Sprint Day Virtual 2024](https://github.com/LSSTDESC/SprintDayWinter2024/), [Sprint Week 2023](https://github.com/LSSTDESC/SprintWeek2023/). 
+- [TBD]
+- The format of the AstroVibe aims to focus on "getting some work done" with the help of in-person communication and collective learning.
+- We propose the following format, but the final schedule is up for discussion:
+  - Start with a short, 5-min introduction of your project without any slides.
+  - Proceed to work on the proposed project.
+  - Casual discussion during lunch break to check in on the progress and discuss any bottlenecks or problems.
+  - Another work session till the end of the day, before having a final check-in.
+  - On the second day, present the outcome of each proposed project and have a final discussion.
+ 
+## Principles: 
 
+- **Planned Ahead**: The person who proposes the AstroVibe project should seriously intend to carry out this project and is responsible for ensuring the feasibility and readiness of the project.
+- **Come Prepared**: You are responsible for learning the basics of LLM-assisted or Agent-based coding and getting familiar with the required LLM models, agent interface, and coding IDE. You should be ready to begin work on the proposed project at the start of the event.
+- **Be Open**: If you are not ready to share your idea, that's Ok. But during the event, we aim to be open and encourage sharing. 
 
-Sprint readiness: If you are proposing a sprint, we encourage you to complete the [sprint readiness](https://lsstdesc.org/sprint-checklist/) checklist that will help you make sure you have a productive time with your sprint.
+----
 
 - This is based on the Sprints at the DESC Feb 2025 Virtual Collaboration Meeting on Feb 24 2025. 
